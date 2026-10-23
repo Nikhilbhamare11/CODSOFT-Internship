@@ -1,9 +1,7 @@
 # CODSOFT-Internship
 
-Task 1
+Task 1 - Done
 
-Task 2
+Task 2 - Done
 
-Task 3
-
-Task 4
+Task 3 - Done 
