@@ -7,7 +7,7 @@ public class Numbergame {
         Random random = new Random();
         int Score = 0;
         String PlayAgain;
-        System.out.println("======= NUMBER GUESSING GAME =======");
+        System.out.println("\n ======= NUMBER GUESSING GAME =======");
 
         do {
             int num = random.nextInt(100) + 1;
@@ -46,7 +46,7 @@ public class Numbergame {
 
         System.out.println("\n====== Game Over ======");
         System.out.println("Your Final Score : " + Score);
-        System.out.println("Thank You!! for playing...");
+        System.out.println("Thank You!! for playing...\n");
 
         sc.close();
     }
